@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlurpleClub/UHCsellingTOOLS/main/Drop.lua"))()
+
 -- Made by FinestAngel On https://forum.robloxscripts.com
 
 

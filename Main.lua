@@ -1,4 +1,5 @@
 -- Made by FinestAngel On https://forum.robloxscripts.com
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlurpleClub/UHCsellingTOOLS/main/Drop.lua"))()
 
 local args = {
     [1] = "DropMoney",
@@ -10,4 +11,4 @@ wait(0.1)
 end
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlurpleClub/UHCsellingTOOLS/main/Drop.lua"))()
+
